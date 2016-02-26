@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - JPSThumbnailAnnotation (1.0.0)
+  - RestKit (0.20.3):
+    - RestKit/Core (= 0.20.3)
+  - RestKit/Core (0.20.3):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.20.3)
+  - RestKit/Network (0.20.3):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.20.3)
+  - RestKit/Support (0.20.3):
+    - TransitionKit (= 1.1.1)
+  - SOCKit (1.1)
+  - SVProgressHUD (2.0-beta8)
+  - TransitionKit (1.1.1)
+
+DEPENDENCIES:
+  - JPSThumbnailAnnotation
+  - RestKit (~> 0.20.0)
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: 8d25b659df56ef86ce8b03e532c2278cfc3cb294
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  AFNetworking: cf8e418e16f0c9c7e5c3150d019a3c679d015018
+  JPSThumbnailAnnotation: 4b35e87788d903db3fec294e7ef44136b9f741fb
+  RestKit: aac0c81c60d30fdd829d627d062f0eea231eb52c
+  SOCKit: c7376ac262bea9115b8f749358f762522a47d392
+  SVProgressHUD: 6e48a1dda09ce3b58adc41d013baed3a8e8980ff
+  TransitionKit: aec4d65b2be460fec0db04f905e8bedca601d669
+
+COCOAPODS: 0.39.0

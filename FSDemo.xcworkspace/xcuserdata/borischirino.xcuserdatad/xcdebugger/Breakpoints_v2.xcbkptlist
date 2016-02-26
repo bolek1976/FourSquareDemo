@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/RestKit/Code/Network/RKObjectManager.m"
+            timestampString = "477937298.091523"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "673"
+            endingLineNumber = "673"
+            landmarkName = "-getObjectsAtPath:parameters:success:failure:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RKObjectManager getObjectsAtPath:parameters:success:failure:]"
+                  moduleName = "FSDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borischirino/Documents/Developing/FSDemo/Pods/RestKit/Code/Network/RKObjectManager.m"
+                  timestampString = "477939489.747524"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "673"
+                  endingLineNumber = "673"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RKObjectManager getObjectsAtPath:parameters:success:failure:]"
+                  moduleName = "FSDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borischirino/Documents/Developing/FSDemo/Pods/RestKit/Code/Network/RKObjectManager.m"
+                  timestampString = "477939489.747694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "673"
+                  endingLineNumber = "673"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/RestKit/Code/ObjectMapping/RKMappingOperation.m"
+            timestampString = "477941601.082799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "636"
+            endingLineNumber = "636"
+            landmarkName = "-mapNestedObject:toObject:withRelationshipMapping:metadata:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RKMappingOperation mapNestedObject:toObject:withRelationshipMapping:metadata:]"
+                  moduleName = "FSDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borischirino/Documents/Developing/FSDemo/Pods/RestKit/Code/ObjectMapping/RKMappingOperation.m"
+                  timestampString = "477942544.553585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "636"
+                  endingLineNumber = "636"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RKMappingOperation mapNestedObject:toObject:withRelationshipMapping:metadata:]"
+                  moduleName = "FSDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borischirino/Documents/Developing/FSDemo/Pods/RestKit/Code/ObjectMapping/RKMappingOperation.m"
+                  timestampString = "477942544.5538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "636"
+                  endingLineNumber = "636"
+                  offsetFromSymbolStart = "165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/JPSThumbnailAnnotation/JPSThumbnailAnnotation/JPSThumbnailAnnotationView.m"
+            timestampString = "478117230.293418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-initWithAnnotation:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/JPSThumbnailAnnotation/JPSThumbnailAnnotation/JPSThumbnailAnnotation.m"
+            timestampString = "478197798.996499"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-annotationViewInMap:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
